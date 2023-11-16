@@ -1,0 +1,62 @@
+{
+  "popular": [
+    {
+      "name": "food1",
+      "imageUrl":"https://www.yummytummyaarthi.com/wp-content/uploads/2023/08/kfc-chicken-1.jpeg",
+      "rating":"5.0",
+      "deliveryTime":"45 mins",
+      "deliveryCharges":"Free delivery",
+      "price":"150",
+      "note":"special"
+    },
+    {
+      "name": "food2",
+      "imageUrl":"https://www.yummytummyaarthi.com/wp-content/uploads/2023/08/kfc-chicken-1.jpeg",
+      "rating":"4.0",
+      "deliveryTime":"50 mins",
+      "deliveryCharges":"Free delivery",
+      "price":"50",
+      "note":"special"
+    }
+  ],
+  "recommended":[
+    {
+      "name": "food1",
+      "imageUrl":"https://www.yummytummyaarthi.com/wp-content/uploads/2023/08/kfc-chicken-1.jpeg",
+      "rating":"5.0",
+      "deliveryTime":"45 mins",
+      "deliveryCharges":"Free delivery",
+      "price":"150",
+      "note":"special"
+    },
+    {
+      "name": "food2",
+      "imageUrl":"https://www.yummytummyaarthi.com/wp-content/uploads/2023/08/kfc-chicken-1.jpeg",
+      "rating":"4.0",
+      "deliveryTime":"50 mins",
+      "deliveryCharges":"Free delivery",
+      "price":"50",
+      "note":"special"
+    }
+  ],
+  "allmenu":[
+        {
+      "name": "food1",
+      "imageUrl":"https://www.yummytummyaarthi.com/wp-content/uploads/2023/08/kfc-chicken-1.jpeg",
+      "rating":"5.0",
+      "deliveryTime":"45 mins",
+      "deliveryCharges":"Free delivery",
+      "price":"150",
+      "note":"special"
+    },
+    {
+      "name": "food2",
+      "imageUrl":"https://www.yummytummyaarthi.com/wp-content/uploads/2023/08/kfc-chicken-1.jpeg",
+      "rating":"4.0",
+      "deliveryTime":"50 mins",
+      "deliveryCharges":"Free delivery",
+      "price":"50",
+      "note":"special"
+    }
+  ]
+}
